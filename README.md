@@ -41,5 +41,5 @@ Esse projeto foi um passo importante para consolidar minha prática em modelagem
 ---
 
 <div align="center">
-<sub>Projeto acadêmico/autoral de <a href="https://github.com/brunaOtas">Bruna Camarão</a></sub>
+<sub>Projeto acadêmico/autoral de <a href="https://github.com/brunaOtas">Bruna Otas</a></sub>
 </div>
